@@ -1,8 +1,11 @@
-# TCC: CLASSIFICAÇÃO DE FALHAS EM MOTORES DIESEL A PARTIR DE RESPOSTAS NO DOMÍNIO DO TEMPO POR MEIO DE PROCESSAMENTO DE SINAIS E REDE NEURAL CONVOLUCIONAL
+# Trabalho de Conclusão de Curso - Código Fonte
+
+## Tema: CLASSIFICAÇÃO DE FALHAS EM MOTORES DIESEL A PARTIR DE RESPOSTAS NO DOMÍNIO DO TEMPO POR MEIO DE PROCESSAMENTO DE SINAIS E REDE NEURAL CONVOLUCIONAL
 Autor: Gabriel Hasmann
+
 Universidade Federal de Itajubá - 2023
 
-
+------------------
 Os dados foram extraídos do site Mendeley: https://data.mendeley.com/datasets/k22zxz29kr/1
 
 O trabalho de referência com explicação dos dados usado como base encontra-se nesse link:
